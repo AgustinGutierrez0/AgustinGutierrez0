@@ -1,6 +1,6 @@
 # Howdy 🤠
 
-- 👋 Hi, I’m Agustin Gutierrez
+- 👋 Hi, I’m Agustín Gutiérrez
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C programming
 - 📫 How to reach me gutierrezaverruz0@hotmail.com
