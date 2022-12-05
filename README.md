@@ -1,8 +1,9 @@
 # Howdy 🤠
+
 <br>
 <img align="center" height="150" src="https://github.com/Aarch-64/Aarch-64/blob/main/linux.png" />
 <br>
-#
+
 - 👋 Hi, I’m Agustín Gutiérrez.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning C programming.
