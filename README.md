@@ -1,9 +1,10 @@
 # Howdy 🤠
 
-- 👋 Hi, I’m Agustín Gutiérrez
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C programming
+- 👋 Hi, I’m Agustín Gutiérrez.
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning C programming.
 - 📫 How to reach me gutierrezaverruz0@hotmail.com
+- 🎉 Fun Fact: I hate tomatoes.
 
 #
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aarch-64&show_icons=true&theme=great-gatsby" alt="Aarch-64" />
