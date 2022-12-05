@@ -1,6 +1,5 @@
 # Howdy 🤠
-<img align="left" alt="Tomas Ondrejka LinkedIn" width="22px" src="https://user-images.githubusercontent.com/97990882/205524165-32c7fd8b-ea54-4b20-9443-b3301fb21dc5.png
-" />
+<img align="left" alt="Tomas Ondrejka LinkedIn" width="22px" src="https://github.com/Aarch-64/Aarch-64/blob/main/linux.png" />
 
 - 👋 Hi, I’m Agustín Gutiérrez.
 - 👀 I’m interested in programming.
