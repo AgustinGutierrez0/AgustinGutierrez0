@@ -1,5 +1,5 @@
 # Howdy 🤠
-<img align="left" alt="Tomas Ondrejka LinkedIn" width="22px" src="![image](https://user-images.githubusercontent.com/97990882/205524165-32c7fd8b-ea54-4b20-9443-b3301fb21dc5.png)
+<img align="left" alt="Tomas Ondrejka LinkedIn" width="22px" src="https://user-images.githubusercontent.com/97990882/205524165-32c7fd8b-ea54-4b20-9443-b3301fb21dc5.png
 " />
 
 - 👋 Hi, I’m Agustín Gutiérrez.
